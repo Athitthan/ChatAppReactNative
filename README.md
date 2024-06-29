@@ -2,7 +2,7 @@
 
 - See a video tutorial showing how to clone this repository 👉🏼 [https://www.youtube.com/watch?v=iHrTQDHq1WI&t=385s](https://www.youtube.com/watch?v=iHrTQDHq1WI&t=385s)
 
-- Check out the Tutorial 👉🏼 [https://www.youtube.com/watch?v=B6bKBiljKxU&t=323s](https://www.youtube.com/watch?v=B6bKBiljKxU&t=323s)
+- Check out how this App works 👉🏼 [https://youtu.be/zrjsxey0lxw?feature=shared)
 
 ## How to clone
 
